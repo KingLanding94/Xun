@@ -1,6 +1,9 @@
 {
   "pages": [
     "pages/index/index",
+    "pages/deliver/deliver",
+    "pages/store/store",
+    "pages/express/express",
     "pages/userConsole/userConsole",
     "pages/storageConsole/storageConsole",
     "pages/databaseGuide/databaseGuide",

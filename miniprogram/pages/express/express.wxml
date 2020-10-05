@@ -1,0 +1,8 @@
+<!--pages/express/express.wxml-->
+
+<button size="mini" bindtap='getScancode' plain>扫一扫</button>
+<button size="mini" bindtap='getScancode' plain>上传</button>
+
+<view wx:if="{{result !=''}}">
+  <view>{{result}}</view>
+</view>
